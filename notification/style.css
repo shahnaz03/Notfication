@@ -1,0 +1,83 @@
+body{
+    background-color: rgb(221, 221, 241);
+}
+.body{
+    width: 800px;
+    height: 1100px;
+    align-content: center;
+    background-color: white;
+    padding: 16px;
+    margin: 0 auto;
+}
+.persons{
+    display: flex;
+    gap: 5px;
+    border-radius: 9px;
+    background-color: rgb(221, 221, 241);
+    margin: 16px;
+    padding: 16px;
+}
+.others{
+    display: flex;
+    gap: 5px;
+    border-radius: 9px;
+    margin: 16px;
+    padding: 16px;
+}
+.head{
+    display: flex;
+    gap: 10px;
+    margin-left: 7px;
+    justify-content: space-between;
+}
+
+.time{
+    opacity: calc(0.4);
+}
+.three{
+    margin-top: 30px;
+    padding: 5px 10px;
+    background-color: rgb(16, 16, 60);
+    border: 1px solid black;
+    border-radius: 14%;
+    color: white;
+    }
+
+a{
+    text-decoration: none;
+    color: rgb(28, 28, 45);
+    text-decoration: solid;
+    
+}
+a:hover{
+    color:rgb(0, 0, 255);
+}
+.action{
+    opacity: calc(0.7) ;
+}
+.message{
+    margin-left: 120px;
+    padding: 16px;
+    border:1px solid rgb(104, 103, 103);
+    border-radius: 5px;
+    border-color: white;
+}
+.message:hover{
+    background-color: rgb(206, 206, 248);
+}
+img{
+    width: 60px;
+    height: 60px;
+}
+.chess{
+    margin-left: 300px;
+    border-radius: 9px;
+    border: none;
+}
+.chess:hover{
+    background-color:rgb(206, 206, 248);
+} 
+.notifications-three{
+    display: flex;
+    gap: 10px;
+}

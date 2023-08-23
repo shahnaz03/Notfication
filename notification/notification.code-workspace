@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../notifications-page-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "notification"
+	}
+}
